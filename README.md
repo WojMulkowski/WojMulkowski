@@ -7,7 +7,7 @@ In my free time, I record and edit videos.
 
 
 ## 🤝 Let's stay in touch:
-### <img  alt="LinkedIn" height="19px" src="icons/linkedin.svg"/> [LinkedIn](https://www.linkedin.com/in/your-profile) <img style="margin-left: 8px;" alt="Instagram" height="17px" src="icons/instagram.svg"/> [Instagram](https://www.instagram.com/vor_tiu_) <img style="margin-left: 8px;" alt="YouTube" height="19px" src="icons/youtube.svg"/> [YouTube](https://www.youtube.com/@woj_m4161) 📧 Email: w.mulkowski44@gmail.com
+### <img  alt="LinkedIn" height="19px" src="icons/linkedin.svg"/> [LinkedIn](https://www.linkedin.com/in/wojciech-mu%C5%82kowski-031206364) <img style="margin-left: 8px;" alt="Instagram" height="17px" src="icons/instagram.svg"/> [Instagram](https://www.instagram.com/vor_tiu_) <img style="margin-left: 8px;" alt="YouTube" height="19px" src="icons/youtube.svg"/> [YouTube](https://www.youtube.com/@woj_m4161) 📧 Email: w.mulkowski44@gmail.com
 
 ## 🛠 Tech Stack
 <p align="left">
