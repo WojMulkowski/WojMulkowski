@@ -7,7 +7,7 @@ In my free time, I record and edit videos.
 
 
 ## 🤝 Let's stay in touch:
-### <img  alt="LinkedIn" height="19px" src="icons/linkedin.svg"/> [LinkedIn](https://www.linkedin.com/in/your-profile) <img style="margin-left: 8px;" alt="Instagram" height="17px" src="icons/instagram.svg"/> [Instagram](https://www.instagram.com/vor_tiu_) <img style="margin-left: 8px;" alt="YouTube" height="19px" src="icons/youtube.svg"/> [YouTube](https://www.youtube.com/@woj_m4161) <div style="display: inline-block; margin: 5px;"></div>📧 Email: your.email@example.com
+### <img  alt="LinkedIn" height="19px" src="icons/linkedin.svg"/> [LinkedIn](https://www.linkedin.com/in/your-profile) <img style="margin-left: 8px;" alt="Instagram" height="17px" src="icons/instagram.svg"/> [Instagram](https://www.instagram.com/vor_tiu_) <img style="margin-left: 8px;" alt="YouTube" height="19px" src="icons/youtube.svg"/> [YouTube](https://www.youtube.com/@woj_m4161) 📧 Email: your.email@example.com
 
 ## 🛠 Tech Stack
 <p align="left">
