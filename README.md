@@ -23,16 +23,18 @@ In my free time, I record and edit videos.
     <img src="icons/csharp.svg" alt="C#" width="40" height="40"/>
     <img src="icons/dotnet.svg" alt=".NET" width="40" height="40"/>
   </div>
-
-  <img src="icons/docker.svg" alt="Docker" width="40" height="40"/>
-  <img src="icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="icons/linux.svg" alt="Linux" width="40" height="40"/>
-  <img src="icons/bash.svg" alt="Bash" width="40" height="40"/>
-  <img src="icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
-  <img src="icons/azure.svg" alt="Azure" width="40" height="40"/>
-  <img src="icons/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/>
-
-  <img src="icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
-  <img src="icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="icons/figma.svg" alt="Figma" width="33" height="33"/>
+  <div>
+    <img src="icons/docker.svg" alt="Docker" width="40" height="40"/>
+    <img src="icons/git.svg" alt="Git" width="40" height="40"/>
+    <img src="icons/linux.svg" alt="Linux" width="40" height="40"/>
+    <img src="icons/bash.svg" alt="Bash" width="40" height="40"/>
+    <img src="icons/powershell.svg" alt="PowerShell" width="40" height="40"/>
+    <img src="icons/azure.svg" alt="Azure" width="40" height="40"/>
+    <img src="icons/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
+    <img src="icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40" height="40"/>
+    <img src="icons/figma.svg" alt="Figma" width="33" height="33"/>
+  </div>
 </p>
