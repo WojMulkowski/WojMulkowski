@@ -1,8 +1,8 @@
 # Hi, it's Wojtek 👋 
 
 ## 🧑‍💻 About Me
-I'm a Computer Science student and aspiring Junior Fullstack Developer, as well as a graduate of WSB Merito University in Poznań.
-I enjoy learning new technologies and automating business processes to improve efficiency.
+I'm a Computer Science student and aspiring Junior Fullstack Developer, as well as a graduate of WSB Merito University in Poznań.  
+I enjoy learning new technologies and automating business processes to improve efficiency. 
 In my free time, I record and edit videos.
 
 
